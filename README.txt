@@ -1,1 +1,1 @@
-Working on a new website currently. This will probably be scrapped, but feel free to take a look! :)
+Completed a new website that you can find at [zacharygarwood.github.io](https://zacharygarwood.github.io/)
